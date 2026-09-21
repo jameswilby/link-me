@@ -1,0 +1,8 @@
+name = "linkme"
+main = "src/index.js"
+compatibility_date = "2026-08-01"
+
+# Uncomment and set to serve on your own domain instead of *.workers.dev
+# routes = [
+#   { pattern = "links.yourdomain.com", custom_domain = true }
+# ]

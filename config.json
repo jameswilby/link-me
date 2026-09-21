@@ -1,9 +1,9 @@
 {
   "profile": {
-    "name": "Your Name",
-    "bio": "Short bio goes here — one or two lines about you.",
+    "name": "James Wilby",
+    "bio": "Olympic medallist, World, European and Commonwealth Champion with a passion for coffee, videography & adventure. Forever supported by family & friends.",
     "avatar": "https://placehold.co/200x200/png",
-    "location": ""
+    "location": "Yorkshire, United Kingdom"
   },
   "theme": {
     "background": "#0f172a",
@@ -15,16 +15,16 @@
     "avatarShape": "circle"
   },
   "links": [
-    { "title": "My Website", "url": "https://example.com", "icon": "🌐" },
+    { "title": "My Website", "url": "https://jameswilby.com", "icon": "🌐" },
     { "title": "GitHub", "url": "https://github.com/yourname", "icon": "💻" },
     { "title": "Blog", "url": "https://example.com/blog", "icon": "✍️" },
     { "title": "YouTube", "url": "https://youtube.com/@yourname", "icon": "▶️" }
   ],
   "socials": [
-    { "platform": "GitHub", "url": "https://github.com/yourname", "icon": "🐙" },
-    { "platform": "X / Twitter", "url": "https://x.com/yourname", "icon": "🐦" },
+    { "platform": "GitHub", "url": "https://github.com/jameswilby", "icon": "🐙" },
+    { "platform": "Instagram", "url": "https://instagram.com/jameswilby", "icon": "🐦" },
     { "platform": "Mastodon", "url": "https://mastodon.social/@yourname", "icon": "🐘" },
-    { "platform": "Email", "url": "mailto:you@example.com", "icon": "✉️" }
+    { "platform": "Email", "url": "mailto:hello@jameswilby.com", "icon": "✉️" }
   ],
   "analytics": {
     "plausible": { "domain": "", "scriptUrl": "https://plausible.io/js/script.js" },
@@ -32,7 +32,7 @@
     "googleAnalytics": { "id": "" }
   },
   "seo": {
-    "title": "Your Name — Links",
+    "title": "James Wilby — Links",
     "description": "All my links in one place."
   }
 }

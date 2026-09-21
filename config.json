@@ -26,9 +26,7 @@
     { "platform": "Mastodon", "url": "https://mastodon.social/@jameswilby", "icon": "🐘" },
     { "platform": "Email", "url": "mailto:hello@jameswilby.com", "icon": "✉️" }
   ],
-
-// placeholders for analytics services, leave empty if not used.
-
+  
   "analytics": {
     "plausible": { "domain": "", "scriptUrl": "https://plausible.io/js/script.js" },
     "goatcounter": { "id": "", "selfhosted": false },

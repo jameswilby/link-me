@@ -1,10 +1,10 @@
 # linkme-worker
 
-A personal "link in bio" page rendered by a Cloudflare Worker, inspired by
+A personal "link bio" page rendered by a Cloudflare Worker, inspired by
 [ironicbadger/linkme](https://github.com/ironicbadger/linkme) — same idea
 (single config file drives your links, profile, theme, and analytics), but
 implemented as a plain JS Worker instead of a Go static-site generator, so it
-deploys directly to Cloudflare with no build step.
+deploys directly to Cloudflare with no build step. Built with a load of help from Claude.
 
 ## 1. Customize
 

@@ -16,16 +16,19 @@
   },
   "links": [
     { "title": "My Website", "url": "https://jameswilby.com", "icon": "🌐" },
-    { "title": "GitHub", "url": "https://github.com/yourname", "icon": "💻" },
-    { "title": "Blog", "url": "https://example.com/blog", "icon": "✍️" },
-    { "title": "YouTube", "url": "https://youtube.com/@yourname", "icon": "▶️" }
+    { "title": "YouTube", "url": "https://youtube.com/@jamesawilby", "icon": "▶️" }, 
+    { "title": "Blog", "url": "https://blog.wilby.me", "icon": "✍️" },    
+    { "title": "GitHub", "url": "https://github.com/jameswilby", "icon": "💻" },
   ],
   "socials": [
     { "platform": "GitHub", "url": "https://github.com/jameswilby", "icon": "🐙" },
     { "platform": "Instagram", "url": "https://instagram.com/jameswilby", "icon": "🐦" },
-    { "platform": "Mastodon", "url": "https://mastodon.social/@yourname", "icon": "🐘" },
+    { "platform": "Mastodon", "url": "https://mastodon.social/@jameswilby", "icon": "🐘" },
     { "platform": "Email", "url": "mailto:hello@jameswilby.com", "icon": "✉️" }
   ],
+
+// placeholders for analytics services, leave empty if not used.
+
   "analytics": {
     "plausible": { "domain": "", "scriptUrl": "https://plausible.io/js/script.js" },
     "goatcounter": { "id": "", "selfhosted": false },
